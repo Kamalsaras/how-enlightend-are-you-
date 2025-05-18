@@ -51,8 +51,7 @@ function updateQuestion() {
 }
 
 function sendToDiscord() {
-    const webhookUrl = "https://discord.com/api/webhooks/1302971459907489833/zqlADy2eEchnQUAtzWq9VBuLZjY9VyBtJoXss8cs_Gm5WnAb8wsYUr7OGfT-M7bOiaez";
-    
+    const webhookUrl = "https://discordapp.com/api/webhooks/1373629924476456970/CXIG6Skln6ljnnbwnJfANXJTZKFPilHkpuEDUZ8g54h3vpyFDa2U9aAKtF1Wifmy2sxK";
     const embedData = {
         username: "Kamalsaras's slave",
         embeds: [{
